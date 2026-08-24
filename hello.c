@@ -14,6 +14,6 @@ int main() {
 
      int _age =22;
      int final_price =200;
-     return 0;
+     return 1;
      
 }
